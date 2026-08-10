@@ -15,7 +15,7 @@ Before moving into computing, I spent more than 14 years working in construction
 
 ## 🚀 Current Projects
 
-### 🏗️ Construction Cost Analytics
+### 🏗️ [Construction Cost Analytics](https://github.com/bcasarim/construction-cost-analytics)
 Real-world BI project using residential construction expenditure data to analyse:
 
 - supplier expenditure
@@ -24,10 +24,10 @@ Real-world BI project using residential construction expenditure data to analyse
 - budget performance
 - purchasing patterns
 
-### 💳 Credit Default Risk Analytics
+### 💳 [Credit Default Risk Analytics](https://github.com/bcasarim/credit-default-risk-analytics)
 Business Intelligence project analysing credit-card default risk using Python, logistic regression and business-focused visualisations.
 
-### 📦 Retail Inventory Management System
+### 📦 [Retail Inventory Management System](https://github.com/bcasarim/retail-inventory-system)
 Python, Flask and MySQL application for managing products, users and inventory transactions.
 
 ## 🛠️ Technical Skills
