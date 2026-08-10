@@ -2,7 +2,7 @@
 
 I'm a **BSc (Hons) Computing student at UCLan in London**, graduating in **August 2027**, with a growing focus on **Business Intelligence, Data Analytics and Data Science**.
 
-Before moving into computing, I spent more than 14 years working in construction logistics and operations across the UK and Europe. That experience developed my skills in problem-solving, stakeholder communication, operational planning and business decision-making — skills I now apply to data.
+Before moving into computing, I spent more than 14 years working in construction logistics and operations across the UK and Europe. That experience developed my skills in problem-solving, stakeholder communication, operational planning and business decision-making, skills I now apply to data.
 
 ## 📊 What I'm working on
 
