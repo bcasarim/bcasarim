@@ -51,8 +51,8 @@ I'm particularly interested in using data to solve real business problems and su
 
 ## 🌍 Languages
 
-- Portuguese — Native
-- English — Fluent
+- Portuguese - Native
+- English - Fluent
 
 📍 London, UK  
 🌍 Open to international opportunities and relocation
